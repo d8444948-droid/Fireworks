@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/HandFireworks.tsx -> @mediapipe/tasks-vision\":{\"id\":\"components/HandFireworks.tsx -> @mediapipe/tasks-vision\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_mediapipe_tasks-vision_vision_bundle_mjs.js\"]}}"
